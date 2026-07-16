@@ -127,6 +127,8 @@ Durante os exercícios foram criados relatórios como:
 - Uso de Subqueries
 - Utilização de EXISTS e IN
 
+---
+
 -> Autor
 **Marcos Vinicius Hortelã da Silva**
 
