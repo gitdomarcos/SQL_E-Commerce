@@ -101,6 +101,7 @@ Também foram desenvolvidos exercícios utilizando EXISTS para verificar existê
 - MAX()
 - MIN()
 
+---
 
 -> Relatórios Desenvolvidos
 Durante os exercícios foram criados relatórios como:
