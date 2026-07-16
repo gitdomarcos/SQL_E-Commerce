@@ -103,9 +103,7 @@ Também foram desenvolvidos exercícios utilizando EXISTS para verificar existê
 
 
 -> Relatórios Desenvolvidos
-
 Durante os exercícios foram criados relatórios como:
-
 - Produtos por Categoria
 - Pedidos por Cliente
 - Produtos Vendidos
